@@ -8,3 +8,6 @@ und die Version, die ich danach off-cam verbessere, so wie ich sie mir vorgestel
 
 Während dieser Videos verwende ich meine PseudoGameEngine deren Repository ihr auch 
 auf diesem GitHub finden könnt.
+
+Ihr könnt jeglichen Code für eure eigenen Zwecke verwenden, aber es wäre schön, wenn ihr mich erwähnt
+oder mir eine Nachricht mit eurem Projekt schickt, welches meinen Code verwendet.

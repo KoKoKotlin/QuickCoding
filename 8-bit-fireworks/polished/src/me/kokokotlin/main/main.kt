@@ -31,7 +31,7 @@ class Firework(val isParticle: Boolean) : Entity, Drawable {
     var exploded = false
     var done = false
 
-    var color = Color(r.nextInt(255), r.nextInt(255), r.nextInt(255))
+    var color = Color(r.nextInt(4) shl 6, r.nextInt(8) shl 5, r.nextInt(4) shl 6)
 
     val explosionHeight = r.nextDouble() * H / 2 + 150.0
     val particles = mutableListOf<Firework>()
@@ -112,14 +112,13 @@ object Grid : Entity, Drawable {
 
     override fun draw(g: Graphics) {
 
-        /*
         g.color = Color.BLACK
         for (i in 0 until (W / CELL_SIZE)) {
             for (j in 0 until (H / CELL_SIZE)) {
                 g.drawRect(i * CELL_SIZE, j * CELL_SIZE, CELL_SIZE, CELL_SIZE)
             }
         }
-        */
+
 
         for (f in fireworks) {
             f.draw(g)

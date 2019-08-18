@@ -18,4 +18,4 @@ Ihr könnt jeglichen Code für eure eigenen Zwecke verwenden, aber es wäre sch�
 oder mir eine Nachricht mit eurem Projekt schickt, welches meinen Code verwendet.
 
 Projekte: - [8-bit fireworks](https://www.youtube.com/watch?v=3Z9QBl-IesA)
-          - [GameOfLive](https://www.youtube.com/channel/UC7nacURgPqTgcR074eABZJg/videos)         
+          - [GameOfLive](https://www.youtube.com/watch?v=DtTXas4uidY)         
